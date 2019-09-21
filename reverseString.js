@@ -5,3 +5,5 @@ var reverseString = function(userInput) {
     return joinInput;
   }
   
+
+  // function reverseString(str) { return str.split("").reverse().join(""); }
