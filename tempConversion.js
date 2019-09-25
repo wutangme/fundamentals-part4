@@ -3,7 +3,7 @@ function tempConversion () {
 
 
 var farenheitToCelsius = function (farenheit) {
-  tempInCelsius = 
+  tempInCelsius = ( (farenheit - 32) * 5 ) / 9;
   return tempInCelsius;
 
 
